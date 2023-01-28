@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "491472676854",
+    "project_id": "coject-98d5a",
+    "storage_bucket": "coject-98d5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491472676854:android:4837c8ef2ba5c330d449d7",
+        "android_client_info": {
+          "package_name": "com.jane.coject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491472676854-0jlf010jf5fc2ef19du09faqjjkqnio1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJbBUeesU4g57hvNtMsZ2aPfbomya3ADI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "491472676854-0jlf010jf5fc2ef19du09faqjjkqnio1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
