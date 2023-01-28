@@ -6,7 +6,7 @@
 
 Language: **Kotlin**
 
-IDE: Android **Studio**
+IDE: **Android Studio**
 
 Data Storage: **Firebase Storgae**
 
