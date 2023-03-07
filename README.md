@@ -19,7 +19,7 @@ Notification: **Firebase Messaging Service**
 
 <img src="https://www.linkpicture.com/q/intro_2.jpg" width="250px">
 
-### 2. Home page shows the overview of all tasks. Meanwhile user can add new tasks by touching the button on the left-botton corner.
+### 2. Home page shows the overview of all tasks. Meanwhile user can add new tasks by touching the button at the left-bottom corner.
 
 <img src="https://www.linkpicture.com/q/checkboardlist_1.jpg" width="250px">
 
